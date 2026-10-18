@@ -1,0 +1,18 @@
+{
+  "user": {
+    "role": "faculty",
+    "name": "Prof. Alok Mathur",
+    "avatar": "AM",
+    "campus": "IITD • Delhi Innovation Hub",
+    "campusShort": "IITD Faculty",
+    "email": "a.mathur@alcon.network",
+    "headline": "Professor & Lab PI • Robotics & Autonomy Lab",
+    "degreeOrTitle": "Professor & Lab PI",
+    "departmentOrLab": "Robotics & Autonomy Lab",
+    "classYearOrRank": "Professor & Lab PI",
+    "kp": "0 KP",
+    "sharesOwned": [],
+    "nodeId": "#FAC-4434"
+  },
+  "isLoggedIn": true
+}

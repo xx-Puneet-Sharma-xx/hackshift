@@ -1,0 +1,62 @@
+{
+  "rohan.v@alcon.network": {
+    "role": "student",
+    "name": "Rohan Verma",
+    "avatar": "RV",
+    "campus": "NSUT • Delhi Innovation Hub",
+    "campusShort": "NSUT '26",
+    "email": "rohan.v@alcon.network",
+    "headline": "Symbolic Systems • Research Fellow",
+    "degreeOrTitle": "Undergraduate Candidate",
+    "departmentOrLab": "Autonomous Intelligence Systems Laboratory",
+    "classYearOrRank": "Class of 2026",
+    "kp": "3,000 KP",
+    "sharesOwned": [
+      {
+        "id": "share-test-1",
+        "projectId": "PRJ-082",
+        "projectTitle": "Synapse Core OS",
+        "amountInvested": 250000,
+        "expectedInvestment": 2500000,
+        "percentageInvested": 10,
+        "sharePercentage": 0.01,
+        "karmaEarned": 2500,
+        "investedAt": "Oct 18, 2026"
+      }
+    ],
+    "nodeId": "#STU-5821",
+    "updatedAt": "2026-10-17T23:16:01.318Z"
+  },
+  "bpdengan2007@gmail.com": {
+    "role": "student",
+    "name": "puneet",
+    "avatar": "P",
+    "campus": "DTU • Delhi Innovation Hub",
+    "campusShort": "DTU '26",
+    "email": "bpdengan2007@gmail.com",
+    "headline": "Symbolic Systems & AI • Research Fellow",
+    "degreeOrTitle": "Symbolic Systems & AI",
+    "departmentOrLab": "Autonomous Intelligence Systems Laboratory",
+    "classYearOrRank": "Class of 2026",
+    "kp": "0 KP",
+    "sharesOwned": [],
+    "nodeId": "#STU-8188",
+    "updatedAt": "2026-10-17T23:16:46.388Z"
+  },
+  "a.mathur@alcon.network": {
+    "role": "faculty",
+    "name": "Prof. Alok Mathur",
+    "avatar": "AM",
+    "campus": "IITD • Delhi Innovation Hub",
+    "campusShort": "IITD Faculty",
+    "email": "a.mathur@alcon.network",
+    "headline": "Professor & Lab PI • Robotics & Autonomy Lab",
+    "degreeOrTitle": "Professor & Lab PI",
+    "departmentOrLab": "Robotics & Autonomy Lab",
+    "classYearOrRank": "Professor & Lab PI",
+    "kp": "0 KP",
+    "sharesOwned": [],
+    "nodeId": "#FAC-4434",
+    "updatedAt": "2026-10-17T23:35:58.748Z"
+  }
+}

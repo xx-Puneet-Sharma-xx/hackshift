@@ -1,0 +1,136 @@
+{
+  "g-01": [
+    {
+      "id": "m-1",
+      "sender": "Kabir Verma",
+      "avatar": "KV",
+      "campus": "IIITD '25",
+      "text": "Hey everyone! Just spun up the 4x A100 test cluster in the lab. We're benchmarking FlashAttention-3 kernels on Llama 3 70B.",
+      "time": "10:14 AM",
+      "isSelf": false,
+      "reactions": [
+        "🔥 5"
+      ]
+    },
+    {
+      "id": "m-2",
+      "sender": "Priya Sundaram",
+      "avatar": "PS",
+      "campus": "DTU '26",
+      "text": "Awesome Kabir! Did you see the new Triton kernel PR? We reduced memory footprint by 28% for sequence lengths > 16k.",
+      "time": "10:28 AM",
+      "isSelf": false,
+      "reactions": [
+        "🚀 4"
+      ]
+    },
+    {
+      "id": "m-4",
+      "sender": "Kabir Verma",
+      "avatar": "KV",
+      "campus": "IIITD '25",
+      "text": "PR #42 merged: added FP8 quantized KV cache support for multi-GPU inference. Ready for review!",
+      "time": "10:42 AM",
+      "isSelf": false,
+      "reactions": [
+        "🎉 8"
+      ],
+      "attachment": {
+        "name": "fp8_quantized_kv_cache.py",
+        "size": "18.4 KB",
+        "type": "code",
+        "projectId": "PRJ-082",
+        "projectTitle": "Synapse Core OS",
+        "projectAdmin": "Aarav Sharma",
+        "isContribution": true
+      },
+      "adminStarred": false
+    }
+  ],
+  "g-02": [
+    {
+      "id": "m-201",
+      "sender": "Manav Sharma",
+      "avatar": "MS",
+      "campus": "NSUT '25",
+      "text": "Just received the custom quadcopter motor ESC boards. Soldering the MOSFETs today.",
+      "time": "Yesterday",
+      "isSelf": false,
+      "reactions": [
+        "🛠️ 3"
+      ]
+    },
+    {
+      "id": "m-202",
+      "sender": "Aditya Verma",
+      "avatar": "AV",
+      "campus": "DTU '26",
+      "text": "PCB revision 2.1 schematics uploaded to repo. Checking thermal traces on the high-side drivers.",
+      "time": "Yesterday",
+      "isSelf": false,
+      "reactions": []
+    }
+  ],
+  "g-03": [
+    {
+      "id": "m-301",
+      "sender": "Ananya Iyer",
+      "avatar": "AI",
+      "campus": "IGDTU '26",
+      "text": "Halo2 folding scheme benchmark results look promising on M3 chips. Under 40ms per constraint batch.",
+      "time": "2 days ago",
+      "isSelf": false,
+      "reactions": [
+        "🔐 7"
+      ]
+    }
+  ],
+  "comm-1792233720263": [
+    {
+      "id": "msg-comm-owner-1",
+      "sender": "Aarav Sharma",
+      "avatar": "AS",
+      "campus": "NSUT '26",
+      "text": "Welcome to MINE channel! As the creator and owner of this community, I can manage and moderate discussions here.",
+      "time": "10:45 AM",
+      "isSelf": true,
+      "reactions": []
+    },
+    {
+      "id": "msg-comm-member-1",
+      "sender": "Kabir Verma",
+      "avatar": "KV",
+      "campus": "IIITD '25",
+      "text": "Excited to collaborate on this new project. Let's build something epic!",
+      "time": "10:48 AM",
+      "isSelf": false,
+      "reactions": []
+    }
+  ],
+  "comm-1792233543653": [
+    {
+      "id": "msg-comm-drone-1",
+      "sender": "Manav Sharma",
+      "avatar": "MS",
+      "campus": "NSUT '25",
+      "text": "Transceivers arrived for the drone mesh protocol testing across campus.",
+      "time": "11:00 AM",
+      "isSelf": false,
+      "reactions": []
+    }
+  ],
+  "dm-MS": [
+    {
+      "id": "msg-1792253173379",
+      "sender": "Aarav Sharma",
+      "avatar": "AS",
+      "campus": "NSUT '26",
+      "text": "Hey Manav! Testing direct message API.",
+      "time": "09:36 PM",
+      "isSelf": true,
+      "reactions": [
+        "⭐ 1"
+      ]
+    }
+  ]
+}

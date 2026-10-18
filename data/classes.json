@@ -1,0 +1,116 @@
+[
+  {
+    "id": "cls-1792261861946",
+    "title": "Quantum Algorithms and Simulation",
+    "instructorName": "Prof. Alok Mathur",
+    "instructorRole": "faculty",
+    "instructorAvatar": "AM",
+    "instructorTitle": "Professor of Computer Science & Lab PI",
+    "campus": "IITD • Quantum Research Node",
+    "departmentOrLab": "Department of Computer Science & Engineering",
+    "category": "Distributed Systems & AI",
+    "schedule": "Mondays • 3:00 PM IST",
+    "location": "IITD Bharti Building • Virtual Room #101",
+    "description": "Exploration of variational quantum eigensolvers, quantum error correction, and surface code architectures.",
+    "enrolledCount": 2,
+    "capacity": 45,
+    "tags": [
+      "Quantum",
+      "Physics",
+      "Simulation"
+    ],
+    "createdAt": "Cycle S26"
+  },
+  {
+    "id": "cls-1",
+    "title": "Distributed GPU Systems & Triton Kernel Optimization",
+    "instructorName": "Prof. Alok Mathur",
+    "instructorRole": "faculty",
+    "instructorAvatar": "AM",
+    "instructorTitle": "Professor of Computer Science & Lab PI",
+    "campus": "IITD • Systems & AI Node",
+    "departmentOrLab": "Robotics & Autonomy Lab • Autonomous Systems",
+    "category": "Distributed Systems & AI",
+    "schedule": "Thursdays • 4:00 PM IST (Bi-weekly)",
+    "location": "Live IITD Stream Node #04 • Virtual Room",
+    "description": "Deep-dive masterclass covering GPU memory hierarchies, Triton compiler internals, CUDA block scheduling, and distributed ZeRO-3 collective communication across multi-node clusters.",
+    "enrolledCount": 36,
+    "capacity": 50,
+    "tags": [
+      "Triton",
+      "CUDA",
+      "PyTorch",
+      "Distributed Systems"
+    ],
+    "createdAt": "Cycle S26"
+  },
+  {
+    "id": "cls-2",
+    "title": "Zero-to-One Technical Venture & Angel Syndicate Pitching",
+    "instructorName": "Manish Sharma",
+    "instructorRole": "alumni",
+    "instructorAvatar": "MS",
+    "instructorTitle": "Partner @ Frontier Syndicate • NSUT '19",
+    "campus": "NSUT • Founders Syndicate Node",
+    "departmentOrLab": "Incubation & Venture Cell • NSUT Campus",
+    "category": "Startups & Venture",
+    "schedule": "Saturdays • 11:00 AM IST",
+    "location": "NSUT Incubation Center • Seminar Hall",
+    "description": "Practical engineering playbook for student founders: structuring SAFE agreements, intellectual property carve-outs from research, cap table math, and pitching angel syndicates.",
+    "enrolledCount": 47,
+    "capacity": 60,
+    "tags": [
+      "Startups",
+      "SAFE",
+      "Fundraising",
+      "Angel Syndicate"
+    ],
+    "createdAt": "Cycle S26"
+  },
+  {
+    "id": "cls-3",
+    "title": "Generative World Models & Neural Physics Simulators",
+    "instructorName": "Prof. Priya Sengupta",
+    "instructorRole": "faculty",
+    "instructorAvatar": "PS",
+    "instructorTitle": "Adjunct Professor & AI Lab PI",
+    "campus": "DTU • Robotics & Perception Node",
+    "departmentOrLab": "Robotics & Perception Research Group",
+    "category": "AI & Machine Learning",
+    "schedule": "Wednesdays • 5:30 PM IST",
+    "location": "DTU Science Block • Auditorium 2",
+    "description": "Explore continuous diffusion in physical 3D spaces, geometric deep learning, and tactile sensor integration for autonomous humanoid manipulation and embodied agent planning.",
+    "enrolledCount": 29,
+    "capacity": 40,
+    "tags": [
+      "World Models",
+      "Robotics",
+      "Diffusion",
+      "Perception"
+    ],
+    "createdAt": "Cycle S26"
+  },
+  {
+    "id": "cls-4",
+    "title": "Silicon Architecture: Custom ASICs for Edge Inference",
+    "instructorName": "Dhruv Kapoor",
+    "instructorRole": "alumni",
+    "instructorAvatar": "DK",
+    "instructorTitle": "Senior Silicon Architect • IIITD '17",
+    "campus": "IIITD • Hardware & Silicon Node",
+    "departmentOrLab": "RISC-V Fellow • Edge Compute Consortium",
+    "category": "Hardware & Silicon",
+    "schedule": "Tuesdays • 6:00 PM IST",
+    "location": "IIITD R&D Building • VLSI Lab",
+    "description": "Hands-on guide to RISC-V vector extensions, Chisel hardware construction, tape-out budgeting with multi-project wafers, and memory bandwidth bottleneck mitigations.",
+    "enrolledCount": 22,
+    "capacity": 35,
+    "tags": [
+      "RISC-V",
+      "ASIC",
+      "Hardware",
+      "Semiconductors"
+    ],
+    "createdAt": "Cycle S26"
+  }
+]

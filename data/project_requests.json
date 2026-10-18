@@ -1,0 +1,44 @@
+[
+  {
+    "id": "req-1792261613425",
+    "projectId": "PRJ-082",
+    "projectTitle": "Synapse Core OS",
+    "applicantName": "Aarav Sharma",
+    "applicantCampus": "NSUT '26 • CS & Systems",
+    "applicantAvatar": "AS",
+    "role": "Core Contributor / Systems Engineer",
+    "bio": "Systems software researcher building verified microkernels and deterministic schedulers.",
+    "github": "https://github.com/aaravsharma",
+    "linkedin": "https://linkedin.com/in/aarav-sharma-ai",
+    "status": "pending",
+    "createdAt": "2026-10-17T18:26:53.425Z"
+  },
+  {
+    "id": "req-101",
+    "projectId": "PRJ-005",
+    "projectTitle": "AeroMesh Protocol",
+    "applicantName": "Kabir Verma",
+    "applicantCampus": "IIITD '25 • EECS & Aerospace",
+    "applicantAvatar": "KV",
+    "role": "Embedded RF & LoRa Engineer",
+    "bio": "Senior hardware engineer working on autonomous space systems at IIITD. Previously engineered telemetry transmitters for student satellite missions. Proficient in bare-metal C on STM32, radio packet fragmentation, and antenna impedance matching.",
+    "github": "https://github.com/kabirverma-systems",
+    "linkedin": "https://linkedin.com/in/kabir-verma-systems",
+    "status": "declined",
+    "createdAt": "2026-10-17T13:20:00.000Z"
+  },
+  {
+    "id": "req-102",
+    "projectId": "PRJ-005",
+    "projectTitle": "AeroMesh Protocol",
+    "applicantName": "Ananya Iyer",
+    "applicantCampus": "IGDTU '26 • Computer Science",
+    "applicantAvatar": "AI",
+    "role": "Flight Simulation & Distributed Mesh Lead",
+    "bio": "Distributed systems researcher at IGDTU focused on gossip mesh networks and ad-hoc packet routing in intermittent connectivity environments. Built real-time physical telemetry simulators in Rust and WebAssembly.",
+    "github": "https://github.com/ananya-iyer-mesh",
+    "linkedin": "https://linkedin.com/in/ananya-iyer-zk",
+    "status": "declined",
+    "createdAt": "2026-10-17T14:05:00.000Z"
+  }
+]
