@@ -1,0 +1,142 @@
+[
+  {
+    "id": "robotics-guild",
+    "domain": "robotics",
+    "name": "Applied Robotics & Kinematics Guild",
+    "sector": "Terracotta Workshop IV",
+    "sectorClass": "terracotta",
+    "liveStatus": "6 Live in Bay",
+    "liveActive": true,
+    "consortium": "Stanford • Carnegie Mellon • Olin College",
+    "description": "Multi-chassis kinematics, quadruped gaits, and embedded edge compute. Building low-cost test platforms for variable terrain traversal and robotic manipulation.",
+    "activeSprint": {
+      "title": "Autonomous Micro-Rovers: Sand Dune Locomotion",
+      "hours": "6 weekly build hrs",
+      "type": "Active Sprint"
+    },
+    "memberCount": 482,
+    "joined": true,
+    "tags": ["Kinematics", "ROS2", "Actuators", "Quadrupeds"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "gen-ai-salon",
+    "domain": "ai",
+    "name": "Generative AI & Agentic Systems Salon",
+    "sector": "Sandstone Library Rotunda",
+    "sectorClass": "sandstone",
+    "liveStatus": "Tomorrow 18:00",
+    "liveActive": false,
+    "consortium": "MIT CSAIL • UC Berkeley • Cambridge Univ",
+    "description": "Deliberating agent autonomy, multimodal cognitive loops, and verifiable tool usage in sandboxed digital twins and embodied robotics.",
+    "activeSprint": {
+      "title": "Local LLM Quantization & Fine-tuning on 8W Silicon",
+      "hours": "920 makers debating",
+      "type": "Key Discourse"
+    },
+    "memberCount": 924,
+    "joined": true,
+    "tags": ["Multi-Agent", "Tool Calling", "SLMs", "Edge Cognition"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "biodesign-collective",
+    "domain": "biodesign",
+    "name": "Regenerative Biodesign & Living Materials",
+    "sector": "Green Canopy Lab II",
+    "sectorClass": "foliage",
+    "liveStatus": "4 Live in Lab",
+    "liveActive": true,
+    "consortium": "Imperial College London • RISD • Wageningen",
+    "description": "Synthesizing mycelium structural foam, micro-algae bio-filters, and cellulose composite fabrics as circular alternatives to petroleum resins.",
+    "activeSprint": {
+      "title": "Tensile Testing of Mycelium Composite Struts",
+      "hours": "14 testing samples",
+      "type": "Lab Trial"
+    },
+    "memberCount": 315,
+    "joined": false,
+    "tags": ["Mycelium", "Biomaterials", "Circular Economy", "Algae"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "civic-tech-guild",
+    "domain": "civic",
+    "name": "Civic Infrastructure & Decentralized Networks",
+    "sector": "Civic Assembly Hall",
+    "sectorClass": "sandstone",
+    "liveStatus": "Active Mesh",
+    "liveActive": true,
+    "consortium": "Harvard Berkman Klein • IIT Delhi • Oxford",
+    "description": "Engineering open-source public goods, mesh communication protocol layers, zero-knowledge voting protocols, and equitable community data cooperatives.",
+    "activeSprint": {
+      "title": "Municipal Flood Early-Warning Telemetry Backbone",
+      "hours": "8 node deployments",
+      "type": "Community Rollout"
+    },
+    "memberCount": 540,
+    "joined": false,
+    "tags": ["Mesh Networks", "Public Good", "ZK-Proof", "Civic Data"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "spatial-computing",
+    "domain": "spatial",
+    "name": "Spatial Architecture & Kinetic Envelopes",
+    "sector": "Atmospheric Sky Loft",
+    "sectorClass": "sandstone",
+    "liveStatus": "Today 16:30",
+    "liveActive": false,
+    "consortium": "Cornell AAP • ETH Zurich • Sci-Arc",
+    "description": "Explorations into parametric responsive structures, shape-memory alloy facades, and holographic spatial collaboration interfaces for remote master studios.",
+    "activeSprint": {
+      "title": "Origami-Tessellated Dynamic Solar Shading Canopy",
+      "hours": "3 scale models built",
+      "type": "Design Studio"
+    },
+    "memberCount": 420,
+    "joined": false,
+    "tags": ["Parametric", "Kinetic Design", "Spatial XR", "Digital Twin"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    ]
+  },
+  {
+    "id": "climate-tech",
+    "domain": "climate",
+    "name": "NextGen Microgrids & Solid Electrolytes",
+    "sector": "Terracotta Workshop I",
+    "sectorClass": "terracotta",
+    "liveStatus": "12 in Bay",
+    "liveActive": true,
+    "consortium": "Caltech • NSUT • Georgia Tech Energy",
+    "description": "Solid-state electrolyte degradation testing, peer-to-peer DC microgrid balancing, and ultra-capacitors for off-grid resilient communities.",
+    "activeSprint": {
+      "title": "Thermal Runaway Containment for Sodium-Ion Packs",
+      "hours": "500 cycle stress test",
+      "type": "Hardware Test"
+    },
+    "memberCount": 612,
+    "joined": true,
+    "tags": ["Solid State", "Microgrids", "Sodium-Ion", "Renewables"],
+    "avatars": [
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80"
+    ]
+  }
+]

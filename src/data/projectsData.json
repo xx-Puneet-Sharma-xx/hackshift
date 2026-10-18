@@ -1,0 +1,194 @@
+[
+  {
+    "id": "aerobloom",
+    "title": "AeroBloom: Autonomous Pollination Micro-Drone",
+    "stage": "active",
+    "stageLabel": "Active Prototyping",
+    "stageClass": "secondary",
+    "category": "Robotics • Agrotech",
+    "domain": "Robotics",
+    "progress": 65,
+    "version": "v2.3",
+    "idCode": "PRJ-2024-88A",
+    "benchBay": "Bay 04",
+    "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuDD0XiEhfWTgniiXnGS9EnOTLQmV-oxcg_jdle8zfaeJ4P36l4Gy230JqBNZWBI0VK2Bq4AE93DJX5cqRnXkcyQn-qowz7LzI84NpYsWoqLy8nzVo-YnoYVYEgbuBaOdGuQPMfdRU2WTBRHBBFa8m68mKofBl1IOLNaa-O9f3_d6eZC7Sbm9ADaHHgewQsFmghcQRHHCahzvmbIBaCJ8g3yUsocdnEpka7K58mEpPz0bjs0pyJFnHOEow",
+    "dioramaView": "https://lh3.googleusercontent.com/aida-public/AB6AXuB3WclLaeyxgX27ppgCXt6FUswfuB_MHanO5P8pkotOla3T-ziNFMJEA_e2LFivoyDHDAKTlTCX5foo9xtzO2_HFh2csXICDXI1XoxpOetH06jq_ZX3bbnyBgtKLbl0miTCixLe3GTLdp8WXM8v_Kss400BkeolafndD__sAjNvW3jSkA44aGxAnjsRUwJS47JRKc6RMmtmSXR-7yom2BFKdyiBcP8bTlYSN_PpoywMJQ0Vnlt68Y0qMA",
+    "cadVersion": "Parchment CAD 3.2",
+    "description": "Ultralight flapping-wing micro-aerial vehicle designed to pollinate targeted orchard flora under variable canopy gusts. Built with bio-mimetic nylon membranes and high-frequency piezoelectric actuators.",
+    "longDescription": "Developing an autonomous floral reconnaissance swarm that maps pollen density and performs soft micro-contact with sensitive pistils using embedded computer vision at 90fps.",
+    "team": "Caltech • MIT • ArtCenter",
+    "teamAvatars": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80"
+    ],
+    "seekingRoles": ["Embedded C++", "Aero Specialist"],
+    "milestone": "Wind tunnel trial #4 in Aeronautical Vault",
+    "milestoneDue": "In 4 Days",
+    "milestones": [
+      { "title": "Piezoelectric Actuator Frequency Tuning", "status": "done", "date": "Oct 12" },
+      { "title": "Wind tunnel trial #4 in Aeronautical Vault", "status": "current", "date": "In 4 Days" },
+      { "title": "Swarm pollination field test in campus greenhouse", "status": "upcoming", "date": "Nov 10" }
+    ],
+    "bomBudget": { "sourced": 340, "total": 500, "count": "8 of 12 Sourced" },
+    "bomItems": [
+      { "id": "b1", "name": "STM32F4 Core MCU", "status": "procured", "cost": 45 },
+      { "id": "b2", "name": "Carbon Spars 0.8mm", "status": "procured", "cost": 65 },
+      { "id": "b3", "name": "PZT Flex Actuators (x4)", "status": "procured", "cost": 230 },
+      { "id": "b4", "name": "Optic Flow Micro-Sensor", "status": "pending", "cost": 85 },
+      { "id": "b5", "name": "Bio-Membrane Wings (Mylar/Nylon)", "status": "pending", "cost": 75 }
+    ]
+  },
+  {
+    "id": "terramesh",
+    "title": "TerraMesh: Decentralized Soil Moisture Swarm",
+    "stage": "trials",
+    "stageLabel": "Bench & Field Trials",
+    "stageClass": "secondary-fixed",
+    "category": "Clean Energy • IoT",
+    "domain": "Clean Energy",
+    "progress": 82,
+    "version": "Node-12",
+    "idCode": "PRJ-2024-91B",
+    "benchBay": "Bay 01",
+    "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBamz6H0O_D6OQh94TDqaz3SDwEWbiwsQda20ZocLHbJmx-83ZMEGsvoXxzhsPdgeh6Ooy7hVuh5-SH7bQHOIKgjsbCztTy6i3O9xtkzIy-Z7LqayqybL4BBTyFsDmV6nTgjzl6OROiq0P-BGgj2mCCMcRfxPvFvbUqHOWkDJf2cURl6MU4kkWaUc7PJDr9PwB8OYwQ91DA5ufwofKmRjHJjQV2VPtpMxdBKYJN788Yz_h_niEEZASODg",
+    "dioramaView": "https://lh3.googleusercontent.com/aida-public/AB6AXuBamz6H0O_D6OQh94TDqaz3SDwEWbiwsQda20ZocLHbJmx-83ZMEGsvoXxzhsPdgeh6Ooy7hVuh5-SH7bQHOIKgjsbCztTy6i3O9xtkzIy-Z7LqayqybL4BBTyFsDmV6nTgjzl6OROiq0P-BGgj2mCCMcRfxPvFvbUqHOWkDJf2cURl6MU4kkWaUc7PJDr9PwB8OYwQ91DA5ufwofKmRjHJjQV2VPtpMxdBKYJN788Yz_h_niEEZASODg",
+    "cadVersion": "LoRa Mesh v4.1",
+    "description": "Low-power LoRa mesh transmitters harvesting thermal soil micro-gradients to monitor regenerative farmland moisture without chemical replacement batteries.",
+    "longDescription": "Deploying 120 self-powered nodes across hillside orchards that form dynamic ad-hoc networks to predict crop frost and deep root moisture deficit.",
+    "team": "UC Davis • Georgia Tech",
+    "teamAvatars": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&auto=format&fit=crop&q=80"
+    ],
+    "seekingRoles": ["Firmware Optimization", "Field Tester (Ag)"],
+    "milestone": "20-node deployment in Napa Valley Research Vineyard",
+    "milestoneDue": "Oct 24",
+    "milestones": [
+      { "title": "Peltier Thermal Harvester Bench Efficiency Test", "status": "done", "date": "Oct 05" },
+      { "title": "20-node deployment in Napa Valley Research Vineyard", "status": "current", "date": "Oct 24" },
+      { "title": "Open Telemetry Dashboard Launch", "status": "upcoming", "date": "Nov 15" }
+    ],
+    "bomBudget": { "sourced": 410, "total": 450, "count": "10 of 11 Sourced" },
+    "bomItems": [
+      { "id": "t1", "name": "SX1262 LoRa Transceiver", "status": "procured", "cost": 80 },
+      { "id": "t2", "name": "Seebeck Thermal Harvester", "status": "procured", "cost": 150 },
+      { "id": "t3", "name": "Time-Domain Soil Reflectometer", "status": "procured", "cost": 180 },
+      { "id": "t4", "name": "Weatherproof ASA Enclosure", "status": "pending", "cost": 40 }
+    ]
+  },
+  {
+    "id": "prosthetictactile",
+    "title": "ProstheticTactile: Haptic Bionic Gripper",
+    "stage": "active",
+    "stageLabel": "CAD & 3D Print",
+    "stageClass": "primary-fixed",
+    "category": "Medical Devices • Robotics",
+    "domain": "Medical Devices",
+    "progress": 42,
+    "version": "Rev C",
+    "idCode": "PRJ-2024-77M",
+    "benchBay": "Bay 06",
+    "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAxCrbV4ncH7_gRdnJQGKfo0FaJwKe4WzmAT61ZdGel8NImIX3R-H3RK9SxJ2AxiDio8gefUXLyIqjUIeGtJY0epkg7MpJyvhdOMyFFtvkbfDMEfP_3j8XkHiOC6np4_nqsMARhIfDJCltAaY6RHnl2dq4yyLXm4Rg_jSV6Ndkc2tbeDJOv_JB-mUcwDqiaJtruT0v_1BA5j0d0cCTXqfjdSw9fVL5PImcCTkH_t9XrglwQ_eAN2CM8wQ",
+    "dioramaView": "https://lh3.googleusercontent.com/aida-public/AB6AXuAxCrbV4ncH7_gRdnJQGKfo0FaJwKe4WzmAT61ZdGel8NImIX3R-H3RK9SxJ2AxiDio8gefUXLyIqjUIeGtJY0epkg7MpJyvhdOMyFFtvkbfDMEfP_3j8XkHiOC6np4_nqsMARhIfDJCltAaY6RHnl2dq4yyLXm4Rg_jSV6Ndkc2tbeDJOv_JB-mUcwDqiaJtruT0v_1BA5j0d0cCTXqfjdSw9fVL5PImcCTkH_t9XrglwQ_eAN2CM8wQ",
+    "cadVersion": "OnShape Bionic v1.8",
+    "description": "Sub-$200 3D-printable myoelectric hand conveying vibrotactile surface pressure directly to the residual forearm nerve bundle via piezoelectric haptic pads.",
+    "longDescription": "Bridging the affordability chasm in neuro-prosthetics by engineering compliant flexural joints driven by nylon cables and embedded myoelectric pattern classifiers.",
+    "team": "Johns Hopkins • Purdue Engineering",
+    "teamAvatars": [
+      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80"
+    ],
+    "seekingRoles": ["EMG Signal Filtering", "SolidWorks Modeler"],
+    "milestone": "Resin print test of 5-finger articulated gearboxes",
+    "milestoneDue": "In 2 Days",
+    "milestones": [
+      { "title": "Myoelectric Forearm Electrode Array Testing", "status": "done", "date": "Oct 08" },
+      { "title": "Resin print test of 5-finger articulated gearboxes", "status": "current", "date": "In 2 Days" },
+      { "title": "Sensory discrimination clinical trial", "status": "upcoming", "date": "Nov 20" }
+    ],
+    "bomBudget": { "sourced": 120, "total": 200, "count": "5 of 9 Sourced" },
+    "bomItems": [
+      { "id": "p1", "name": "Micro Coreless DC Servos (x5)", "status": "procured", "cost": 75 },
+      { "id": "p2", "name": "Piezo Haptic Buzzers", "status": "procured", "cost": 45 },
+      { "id": "p3", "name": "Differential EMG Analog Front-End", "status": "pending", "cost": 50 },
+      { "id": "p4", "name": "Bio-Compatible Formlabs Tough Resin", "status": "pending", "cost": 30 }
+    ]
+  },
+  {
+    "id": "synapselens",
+    "title": "SynapseLens: Open Eye-Tracking Specs",
+    "stage": "deployed",
+    "stageLabel": "Pilot Trial & Hospital Beta",
+    "stageClass": "secondary",
+    "category": "Accessibility • Computer Vision",
+    "domain": "Embedded AI",
+    "progress": 91,
+    "version": "Beta",
+    "idCode": "PRJ-2024-54X",
+    "benchBay": "Bay 02",
+    "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuDMTybfhuGO627xEKYw-9GCVURXFVGRjcyFa7YbyoPbf4_0uXoiKtOmERVnGrDiiIwaoW7YPt7U9SNkPqQvAUygZCzv99PsInzek_ZbbxPYvpjxeGT6Xi9MOgY9-AtQLpfBdBLhVx2HbruGp0ztyQeITrbf52U2PCKw5qneh75pZnIPpr9BspiPGoonUhuoSCe6P01gI0N-NAYoxpzjAmepEXtfmoXBUu4fk7TX1fVt8CAK86dPEWwm_Q",
+    "dioramaView": "https://lh3.googleusercontent.com/aida-public/AB6AXuDMTybfhuGO627xEKYw-9GCVURXFVGRjcyFa7YbyoPbf4_0uXoiKtOmERVnGrDiiIwaoW7YPt7U9SNkPqQvAUygZCzv99PsInzek_ZbbxPYvpjxeGT6Xi9MOgY9-AtQLpfBdBLhVx2HbruGp0ztyQeITrbf52U2PCKw5qneh75pZnIPpr9BspiPGoonUhuoSCe6P01gI0N-NAYoxpzjAmepEXtfmoXBUu4fk7TX1fVt8CAK86dPEWwm_Q",
+    "cadVersion": "OptoCAD 2.0",
+    "description": "Open-hardware gaze keyboard and wheelchair steering peripheral running on tiny edge neural accelerators under 300 milliwatts.",
+    "longDescription": "Empowering ALS and motor-neuron disease patients with ultra-fast, sub-millimeter pupil tracking running 100% locally on tiny edge microcontrollers without network latency.",
+    "team": "Stanford Neuro • Berkeley EECS",
+    "teamAvatars": [
+      "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    ],
+    "seekingRoles": ["Clinical Study Lead", "Swift / iOS Port"],
+    "milestone": "Completed 12-subject ALS keyboard benchmark at Stanford Hospital",
+    "milestoneDue": "Complete",
+    "milestones": [
+      { "title": "Sub-millimeter Pupil Tracking Model Quantization", "status": "done", "date": "Sep 28" },
+      { "title": "12-subject ALS keyboard benchmark at Stanford", "status": "done", "date": "Oct 14" },
+      { "title": "Open-Source Hardware Bill of Materials Release", "status": "upcoming", "date": "Nov 01" }
+    ],
+    "bomBudget": { "sourced": 280, "total": 290, "count": "11 of 12 Sourced" },
+    "bomItems": [
+      { "id": "s1", "name": "OmniVision OV9281 IR Global Shutter", "status": "procured", "cost": 110 },
+      { "id": "s2", "name": "Hailo-8L Edge AI M.2 Module", "status": "procured", "cost": 130 },
+      { "id": "s3", "name": "850nm Eye-Safe IR Ring LEDs", "status": "procured", "cost": 40 },
+      { "id": "s4", "name": "Lightweight Titanium Spectacle Rim", "status": "pending", "cost": 10 }
+    ]
+  },
+  {
+    "id": "ocean-harvester",
+    "title": "OceanClean: Coastal Micro-Plastic Harvester",
+    "stage": "active",
+    "stageLabel": "Active Prototyping",
+    "stageClass": "secondary",
+    "category": "Clean Energy • Robotics",
+    "domain": "Hardware & CNC",
+    "progress": 68,
+    "version": "Mk III",
+    "idCode": "PRJ-2024-32C",
+    "benchBay": "Bay 03",
+    "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJmzmdRLAAulFDvCHtUEcUUVxKi9UfDpKthr-fHKKOo9ztduIPSbN94i_v7z_l7e477h1tAH_WUGLVHRJYnKGAk6goD7UBVWJHwUMju7nj5DW_0LcELdrr9jUw494VvRxencghlZIhPDsffrh7H1i-m0JGaRv5lcBivaBR3VMnuy6ELUP8lcfznXeOKj7kF4Gu-9rWj-63eugUkHlUhzIemL_5jrf9VDmJPVUq7zcwMWnJhdKeZZ4Vg",
+    "dioramaView": "https://lh3.googleusercontent.com/aida-public/AB6AXuCFJmzmdRLAAulFDvCHtUEcUUVxKi9UfDpKthr-fHKKOo9ztduIPSbN94i_v7z_l7e477h1tAH_WUGLVHRJYnKGAk6goD7UBVWJHwUMju7nj5DW_0LcELdrr9jUw494VvRxencghlZIhPDsffrh7H1i-m0JGaRv5lcBivaBR3VMnuy6ELUP8lcfznXeOKj7kF4Gu-9rWj-63eugUkHlUhzIemL_5jrf9VDmJPVUq7zcwMWnJhdKeZZ4Vg",
+    "cadVersion": "Hull Design 4.0",
+    "description": "Solar-powered catamaran using high-speed edge computer vision to detect, skim, and compact floating microplastics in coastal inlets and harbors.",
+    "longDescription": "Autonomous river-mouth barrier skimmer with hydro-turbines and onboard AI classifiers sorting natural plant detritus from artificial plastic polymers.",
+    "team": "NSUT • IIT Delhi • BITS Pilani",
+    "teamAvatars": [
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&auto=format&fit=crop&q=80"
+    ],
+    "seekingRoles": ["Edge CV Specialist", "PCB Layout"],
+    "milestone": "Hull hydrodynamics stability testing at Yamuna Canal",
+    "milestoneDue": "In 6 Days",
+    "milestones": [
+      { "title": "Catamaran Hull CNC Foam Core Lamination", "status": "done", "date": "Oct 10" },
+      { "title": "Hydrodynamics stability testing at Yamuna Canal", "status": "current", "date": "In 6 Days" },
+      { "title": "Autonomous waypoint navigation trial", "status": "upcoming", "date": "Nov 18" }
+    ],
+    "bomBudget": { "sourced": 480, "total": 700, "count": "7 of 10 Sourced" },
+    "bomItems": [
+      { "id": "o1", "name": "Twin Torqeedo Micro Thrusters", "status": "procured", "cost": 320 },
+      { "id": "o2", "name": "Bifacial 120W Flexible Solar Panel", "status": "procured", "cost": 160 },
+      { "id": "o3", "name": "Stainless 316 Skimmer Mesh Conveyor", "status": "pending", "cost": 120 },
+      { "id": "o4", "name": "Pixhawk 6X Autopilot Core", "status": "pending", "cost": 100 }
+    ]
+  }
+]

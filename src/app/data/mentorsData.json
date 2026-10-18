@@ -1,0 +1,95 @@
+[
+  {
+    "id": "anya-sharma",
+    "name": "Dr. Anya Sharma",
+    "role": "Senior Research Scientist",
+    "org": "Google DeepMind",
+    "college": "Stanford / IIT Delhi Alum",
+    "rating": 4.98,
+    "reviews": 64,
+    "intentTags": ["office_hours", "thesis_advisory", "code_review"],
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=160&auto=format&fit=crop&q=80",
+    "tags": ["Multi-Agent Reasoning", "Frontier LLM Alignment", "PhD Applications"],
+    "bio": "Mentoring graduate and undergraduate students on scalable agent alignment, mathematical foundations of deep learning, and publishing in NeurIPS/ICLR.",
+    "availableSlots": [
+      { "id": "s1", "time": "Tomorrow, 4:30 PM IST", "date": "Oct 19" },
+      { "id": "s2", "time": "Wednesday, 5:00 PM IST", "date": "Oct 21" }
+    ],
+    "karmaRate": "Free for Students",
+    "verified": true
+  },
+  {
+    "id": "arjun-mehta",
+    "name": "Arjun Mehta",
+    "role": "Lead Hardware Architect",
+    "org": "Rivian Automotive",
+    "college": "BITS Pilani / MIT Alum",
+    "rating": 5.0,
+    "reviews": 42,
+    "intentTags": ["office_hours", "code_review", "career_pivot"],
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=160&auto=format&fit=crop&q=80",
+    "tags": ["Automotive Embedded Systems", "High-Speed PCB Design", "Battery Management"],
+    "bio": "Passionate about guiding hardware builders through Design for Manufacturability (DFM), rapid silicon prototyping, and early-stage hardware startup roadmaps.",
+    "availableSlots": [
+      { "id": "s3", "time": "Thursday, 6:00 PM IST", "date": "Oct 22" },
+      { "id": "s4", "time": "Saturday, 10:30 AM IST", "date": "Oct 24" }
+    ],
+    "karmaRate": "Free for Students",
+    "verified": true
+  },
+  {
+    "id": "priya-rao",
+    "name": "Priya Rao",
+    "role": "Venture Partner & Ex-Founder",
+    "org": "Sequoia Surge",
+    "college": "NSUT / Harvard MBA",
+    "rating": 4.95,
+    "reviews": 88,
+    "intentTags": ["pitch_critique", "office_hours"],
+    "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=160&auto=format&fit=crop&q=80",
+    "tags": ["Student Startup Pitching", "Pre-Seed Fundraising", "Product Market Fit"],
+    "bio": "Helping student inventors transform laboratory prototypes into venture-backed technology companies. Expert in founder vesting and early customer discovery.",
+    "availableSlots": [
+      { "id": "s5", "time": "Friday, 3:00 PM IST", "date": "Oct 23" },
+      { "id": "s6", "time": "Monday, 4:00 PM IST", "date": "Oct 26" }
+    ],
+    "karmaRate": "Free for Students",
+    "verified": true
+  },
+  {
+    "id": "david-chen",
+    "name": "David Chen",
+    "role": "Flight Systems Engineer",
+    "org": "NASA Jet Propulsion Lab",
+    "college": "Caltech Alum",
+    "rating": 4.92,
+    "reviews": 35,
+    "intentTags": ["thesis_advisory", "code_review"],
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=160&auto=format&fit=crop&q=80",
+    "tags": ["Autonomous Rover Navigation", "Real-Time Telemetry", "Aerospace Careers"],
+    "bio": "Guiding collegiate rocketry and autonomous rover teams on fault-tolerant avionics architecture and orbital trajectory planning.",
+    "availableSlots": [
+      { "id": "s7", "time": "Saturday, 11:00 AM IST", "date": "Oct 24" }
+    ],
+    "karmaRate": "Free for Students",
+    "verified": true
+  },
+  {
+    "id": "elena-rostova",
+    "name": "Dr. Elena Rostova",
+    "role": "Bio-Engineering Research Fellow",
+    "org": "Max Planck Institute",
+    "college": "Oxford / ETH Zurich",
+    "rating": 4.96,
+    "reviews": 29,
+    "intentTags": ["thesis_advisory", "office_hours"],
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=160&auto=format&fit=crop&q=80",
+    "tags": ["Synthetic Biology", "Microfluidics Automation", "Cell-Free Systems"],
+    "bio": "Advising biotechnology students on automating genetic circuit assembly and writing fellowship proposals for European research institutes.",
+    "availableSlots": [
+      { "id": "s8", "time": "Thursday, 2:00 PM IST", "date": "Oct 22" }
+    ],
+    "karmaRate": "Free for Students",
+    "verified": true
+  }
+]

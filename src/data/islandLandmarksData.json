@@ -1,0 +1,132 @@
+[
+  {
+    "id": "library",
+    "name": "Mentors & Alumni",
+    "route": "/mentors",
+    "tag": "Academic Heritage",
+    "subtitle": "Get intent-based guidance",
+    "title": "The Great Colonnade & Sandstone Library",
+    "icon": "school",
+    "colorClass": "bg-primary",
+    "badgeColor": "#765935",
+    "desc": "The scholastic heart of the floating diorama. Holds university fellowship registries, thesis archives, and private reading alcoves for intent-based alumni office hours.",
+    "position": {
+      "top": "20%",
+      "left": "33%"
+    },
+    "stats": [
+      { "val": "120+", "label": "Verified Mentors" },
+      { "val": "34", "label": "Slots Open Today", "highlight": "primary" },
+      { "val": "98%", "label": "Match Rating", "highlight": "secondary" }
+    ],
+    "lead": {
+      "name": "Dr. Anya Sharma • Google DeepMind",
+      "bio": "Guiding student researchers on frontier agent alignment, scalable reasoning, and PhD pathways.",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80"
+    }
+  },
+  {
+    "id": "rotunda",
+    "name": "Opportunities",
+    "route": "/opportunities",
+    "tag": "Innovation Capital",
+    "subtitle": "Discover funding, grants & roles",
+    "title": "Innovation Rotunda & Grant Exchange",
+    "icon": "military_tech",
+    "colorClass": "bg-primary",
+    "badgeColor": "#bc9970",
+    "desc": "An illuminated glass-domed assembly space showcasing venture capital grants, inter-collegiate fellowship residencies, and startup pitch competitions.",
+    "position": {
+      "top": "21%",
+      "left": "75%"
+    },
+    "stats": [
+      { "val": "$180K", "label": "Active Grant Pool" },
+      { "val": "14", "label": "Open Fellowships", "highlight": "primary" },
+      { "val": "28d", "label": "Next Deadline", "highlight": "secondary" }
+    ],
+    "lead": {
+      "name": "Priya Rao • Sequoia Surge",
+      "bio": "Reviewing collegiate hardware and software grant applications for the upcoming VentureForge cohort.",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&auto=format&fit=crop&q=80"
+    }
+  },
+  {
+    "id": "sanctuary",
+    "name": "My Space",
+    "route": "/myspace",
+    "tag": "Identity & Portfolio",
+    "subtitle": "Your portable Karma ledger",
+    "title": "The Scholar's Sanctuary",
+    "icon": "account_balance_wallet",
+    "colorClass": "bg-primary",
+    "badgeColor": "#765935",
+    "desc": "Your tranquil personal studio overlooking the clouds. Tracks your verified skill endorsements, tool loans, collaborative contributions, and 140 portable Karma score.",
+    "position": {
+      "top": "46%",
+      "left": "85%"
+    },
+    "stats": [
+      { "val": "140", "label": "Karma Points" },
+      { "val": "5", "label": "Contributions", "highlight": "primary" },
+      { "val": "4", "label": "Badges Verified", "highlight": "secondary" }
+    ],
+    "lead": {
+      "name": "Ishan Sharma • NSUT Delhi",
+      "bio": "Distinguished Guild Master • Robotics & Embedded Systems Fellow.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80"
+    }
+  },
+  {
+    "id": "pavilion",
+    "name": "Communities",
+    "route": "/communities",
+    "tag": "Community Hub",
+    "subtitle": "Join domain & campus hubs",
+    "title": "Open-Air Collaboration Pavilion",
+    "icon": "groups",
+    "colorClass": "bg-secondary",
+    "badgeColor": "#3b6931",
+    "desc": "An open architectural veranda surrounded by cedar seating and shade canopies. Home to cross-disciplinary student assemblies, reading circles, and peer design critiques.",
+    "position": {
+      "top": "56%",
+      "left": "31%"
+    },
+    "stats": [
+      { "val": "85", "label": "Active Circles" },
+      { "val": "140", "label": "Today's Makers", "highlight": "primary" },
+      { "val": "9", "label": "Salons Today", "highlight": "secondary" }
+    ],
+    "lead": {
+      "name": "Maya Lin-Torres • Stanford Guild",
+      "bio": "Leading Friday's open debate on decentralized AI governance and embodied reasoning.",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=100&auto=format&fit=crop&q=80"
+    }
+  },
+  {
+    "id": "makerspace",
+    "name": "Projects",
+    "route": "/projects",
+    "tag": "Hardware & Prototype Lab",
+    "subtitle": "Build ideas & find collaborators",
+    "title": "Makerspace & Innovation Workshop",
+    "icon": "precision_manufacturing",
+    "colorClass": "bg-tertiary",
+    "badgeColor": "#97472e",
+    "desc": "Equipped with modular laser cutters, aerospace-grade composite tables, and automated electronics assembly jigs. Prototype freely with peer masters and cross-college co-founders.",
+    "position": {
+      "top": "57%",
+      "left": "70%"
+    },
+    "stats": [
+      { "val": "42", "label": "Open Builds" },
+      { "val": "18", "label": "3D Benches", "highlight": "primary" },
+      { "val": "6", "label": "Venture Pitches", "highlight": "secondary" }
+    ],
+    "lead": {
+      "name": "Kaelen Voss • MIT Robotics",
+      "bio": "Assembling sub-millimeter robotic grippers for micro-surgery and autonomous pollination.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80"
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ventureforge-2026",
+    "title": "VentureForge 2026: Inter-Collegiate Seed Grant",
+    "type": "grant",
+    "typeLabel": "$25,000 Equity-Free Grant",
+    "sponsor": "Caltech & MIT Innovation Alliance",
+    "deadline": "Nov 15, 2026",
+    "daysLeft": 28,
+    "funding": "$25,000",
+    "category": "Hardware & Robotics",
+    "description": "Non-dilutive grant funding awarded to hardware prototypes solving physical world challenges in climate, accessibility, or robotics. Includes dedicated makerspace bay access.",
+    "eligibility": "Must have at least two collegiate co-founders enrolled in participating alliance universities.",
+    "perks": ["$25k cash grant", "Access to 5-axis CNC & Cleanroom", "Mentorship from venture partners"]
+  },
+  {
+    "id": "atmospheric-hardware-fellowship",
+    "title": "Atmospheric Hardware Fellowship: Fall Cohort",
+    "type": "fellowship",
+    "typeLabel": "$12,000 Stipend + Lab Hangar",
+    "sponsor": "Aetheria Foundation",
+    "deadline": "Nov 28, 2026",
+    "daysLeft": 41,
+    "funding": "$12,000",
+    "category": "Aerospace & IoT",
+    "description": "3-month residency supporting researchers developing sub-orbital balloons, micro-aerial drones, and autonomous telemetry probes.",
+    "eligibility": "Open to undergraduate, master's, or doctoral candidates.",
+    "perks": ["$12,000 personal stipend", "Wind tunnel & flight cage access", "Assigned NASA/Rivian alumni mentor"]
+  },
+  {
+    "id": "frontier-ai-safety-grant",
+    "title": "Frontier AI Safety & Agent Reasoning Grant",
+    "type": "grant",
+    "typeLabel": "$18,000 Research Grant",
+    "sponsor": "DeepMind Research Consortium",
+    "deadline": "Dec 05, 2026",
+    "daysLeft": 48,
+    "funding": "$18,000",
+    "category": "AI & Machine Learning",
+    "description": "Targeted research funding for multi-agent coordination proofs, sandboxed execution bounds, and verifiable tool invocation architectures.",
+    "eligibility": "Student researchers submitting reproducible open-source implementations.",
+    "perks": ["$18k compute and conference grant", "TPU v5e cluster allocations", "NeurIPS presentation sponsor"]
+  },
+  {
+    "id": "clean-energy-microgrid-prize",
+    "title": "NextGen Clean Energy Micro-Grid Challenge",
+    "type": "competition",
+    "typeLabel": "$30,000 Grand Prize",
+    "sponsor": "ClimateWorks Foundation & IIT Alumni Fund",
+    "deadline": "Dec 12, 2026",
+    "daysLeft": 55,
+    "funding": "$30,000",
+    "category": "Clean Energy",
+    "description": "Global collegiate innovation competition for decentralized energy storage, sodium battery battery management systems, and rural microgrids.",
+    "eligibility": "Multidisciplinary student teams across any recognized university.",
+    "perks": ["$30k grand prize", "Pilot deployment in Himachal rural microgrid", "Incubator fast-track"]
+  }
+]

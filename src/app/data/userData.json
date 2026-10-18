@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "Ishan Sharma",
+    "handle": "@ishansden",
+    "role": "Robotics & Embedded Systems Fellow",
+    "college": "NSUT Delhi / Inter-College Innovation Guild",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=160&auto=format&fit=crop&q=80",
+    "karma": 140,
+    "reputationTier": "Distinguished Guild Master",
+    "bio": "Building micro-robotics kinematics, embedded FreeRTOS firmware, and decentralized telemetry nodes. Enthusiastic mentor in the Makerspace Lab.",
+    "badges": [
+      { "id": "b1", "name": "Hardware Kinematics", "icon": "smart_toy", "color": "#765935" },
+      { "id": "b2", "name": "SolidWorks CSWA", "icon": "architecture", "color": "#97472e" },
+      { "id": "b3", "name": "Embedded C++", "icon": "memory", "color": "#3b6931" },
+      { "id": "b4", "name": "Good Citizen 2026", "icon": "verified", "color": "#bc9970" }
+    ]
+  },
+  "karmaLedger": [
+    { "id": "k1", "date": "Oct 16", "event": "Mentored 3 junior builders on ESP32 mesh nodes", "points": "+40", "type": "gain" },
+    { "id": "k2", "date": "Oct 14", "event": "Contributed open-source CAD to AeroBloom micro-wing assembly", "points": "+35", "type": "gain" },
+    { "id": "k3", "date": "Oct 10", "event": "Hosted peer reading salon on Local LLM Quantization", "points": "+25", "type": "gain" },
+    { "id": "k4", "date": "Oct 06", "event": "Returned 5-axis CNC bits to Makerspace Tool Crib in clean condition", "points": "+20", "type": "gain" },
+    { "id": "k5", "date": "Oct 02", "event": "Peer code review on Synapse DSP EEG filtering library", "points": "+20", "type": "gain" }
+  ],
+  "notifications": [
+    { "id": "n1", "title": "AeroBloom CAD Accepted", "desc": "Elena Vance accepted your CAD contribution on AeroBloom (+15 Karma)", "time": "2h ago", "read": false, "route": "/projects" },
+    { "id": "n2", "title": "New Discourse in Robotics Guild", "desc": "Kaelen Voss posted: 'Live telemetry demodulation on 433 MHz band'", "time": "5h ago", "read": false, "route": "/communities" },
+    { "id": "n3", "title": "Office Hours Confirmed", "desc": "1-on-1 session with Dr. Anya Sharma scheduled for tomorrow at 4:30 PM", "time": "1d ago", "read": true, "route": "/mentors" },
+    { "id": "n4", "title": "New $25k Grant Posted", "desc": "VentureForge 2026 Inter-Collegiate Seed Grant is now accepting proposals", "time": "2d ago", "read": true, "route": "/opportunities" }
+  ]
+}
